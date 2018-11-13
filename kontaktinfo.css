@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/3844475/600/400/m2/fpnw/wm0/black-yellow-abstract-creative-background-.jpg?1515933995&s=d63b1ca37621dd0a1b3ac41af657c685);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Georgia, serif;
+    color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px
+}
+
+#info {
+    text-align: justify;
+    position: relative;
+    left: 100px;
+    width: 37%;
+}
+
+#asukoht {
+    text-align: end;
+    position: relative;
+    right: 100px;
+    bottom: 475px;
+    font-size: 25px;
+}
