@@ -1,9 +1,4 @@
 body {
-    background-image: url(https://ak0.picdn.net/shutterstock/videos/3937400/thumb/1.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
     font-family: Georgia, serif;
     color: cornsilk;
 }
@@ -24,11 +19,7 @@ p {
     padding-bottom: 20px;
 }
 
-img {
-    max-width:100%;
-    width: auto/9;
-    height: auto;
-    float:right;
-    border-radius:50%;
-    padding-right: 100px;
+body {
+	background-image: url("Rohelisedmunadb.png");
+    background-size:contain;
 }
