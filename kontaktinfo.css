@@ -1,30 +1,117 @@
 body {
-    background-image: url(https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/3844475/600/400/m2/fpnw/wm0/black-yellow-abstract-creative-background-.jpg?1515933995&s=d63b1ca37621dd0a1b3ac41af657c685);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    font-family: Georgia, serif;
-    color: cornsilk;
+	background-color: White;
+}
+
+.menu_bar ul {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.menu_bar li {
+	color: MediumTurquoise;
+	padding: 20px;
+	font-family: Console;
+	font-size: 45px;
+}
+
+#kontaktinfo {
+	color: Khaki;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+#banner {
+	background-image: url("ice_background.jpg");
+	background-size: cover;
+	background-position: center;
+	opacity: 0.75;
+	height: 400px;		
+}
+
+#banner h1 {
+	color: white;
+}
+
+#banner .content {
+	opacity: 0.9;
+	border: 3px solid white;
+	text-align: center;
+	color: white;
+	top: 50px;
+	width: 400px;
+	margin: 0 auto;
+	position: relative;
 }
 
 h1 {
-    text-align: center;
-    padding-top: 20px;
-    font-size: 50px
+	text-align: center;
+	color: OliveDrab;
+	padding: 20px;
+	font-family: Console;
+	font-size: 40px
 }
 
-#info {
-    text-align: justify;
-    position: relative;
-    left: 100px;
-    width: 37%;
+p {
+	padding: 10px 70px;
+	text-align: center;
+	font-family: Console;
+	font-size: 20px
 }
 
-#asukoht {
-    text-align: end;
-    position: relative;
-    right: 100px;
-    bottom: 475px;
-    font-size: 25px;
+a {
+	text-decoration: none;
 }
+
+h2 {
+	text-align: center;
+	color: DarkSlateGray;
+	font-family: Console;
+	font-size: 30px
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#meist {
+	background-color: Khaki;
+	width: cover;
+	height: 300px;
+}
+
+#meist .tekst {
+	background-color: yellow;
+	text-decoration: none;
+	width: cover;
+	height: 150px;
+	background-position: center;
+	padding: 10px;
+}
+
+#joon {
+	background-color: black;
+	width: cover;
+	height: 5px;
+	
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	
+	animation: bounce 0.5s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+@keyframes bounce {
+	from { transform: translate3d(0, 0, 0); }
+	to { transform: translate3d(0, 50px, 0);}
+}
+

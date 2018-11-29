@@ -1,5 +1,5 @@
 body {
-	background-color: Snow;
+	background-color: White;
 }
 
 .menu_bar ul {
@@ -15,7 +15,7 @@ body {
 	font-size: 45px;
 }
 
-#tootest {
+#avaleht {
 	color: Khaki;
 	font-size: 60px;
 	font-weight: bold;
@@ -65,16 +65,11 @@ a {
 
 h2 {
 	text-align: center;
-	color: OliveDrab;
+	color: DarkSlateGray;
 	font-family: Console;
 	font-size: 30px
 }
 
-#asukoht {
-	padding: 10px 70px;
-	text-align: center;
-	font-family: Console;
-}
 
 .center {
     display: block;
