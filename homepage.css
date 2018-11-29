@@ -6,6 +6,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: center;
+	display:inline;
 }
 
 .menu_bar li {
@@ -13,6 +14,7 @@ body {
 	padding: 20px;
 	font-family: Console;
 	font-size: 45px;
+	display:inline;
 }
 
 #avaleht {
@@ -76,4 +78,8 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+img {
+	float:right;
 }
