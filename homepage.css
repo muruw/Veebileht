@@ -83,3 +83,6 @@ h2 {
 img {
 	float:right;
 }
+li:hover{
+	background-color:gray;
+}
