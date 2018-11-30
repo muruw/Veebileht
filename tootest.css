@@ -76,7 +76,7 @@ h2 {
 
 #essalist li {
 	float:left;
-	font-size: 20px;
+	font-size: 25px;
 	width:75%;
 }
 
@@ -93,7 +93,7 @@ li:hover{
 #kast {
 	background-color: Khaki;
 	width: cover;
-	height: 155px;
+	height: 215px;
 	border: solid 3px black;
 }
 
@@ -111,8 +111,14 @@ li:hover{
 	width:30%;
 }
 
+.must {
+	color: black;
+}
+
 img {
 	float:right;
 }
-
+#teinelist {
+	font-size:25px;
+}
 
