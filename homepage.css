@@ -86,3 +86,9 @@ img {
 li:hover{
 	background-color:gray;
 }
+
+#joon {
+	background-color: black;
+	width: cover;
+	height: 5px;	
+}

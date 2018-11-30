@@ -72,7 +72,6 @@ h2 {
 	font-size: 30px
 }
 
-
 .center {
     display: block;
     margin-left: auto;
@@ -84,16 +83,9 @@ h2 {
 	background-color: Khaki;
 	width: cover;
 	height: 300px;
+	border: 3px solid black;
 }
 
-#meist .tekst {
-	background-color: yellow;
-	text-decoration: none;
-	width: cover;
-	height: 150px;
-	background-position: center;
-	padding: 10px;
-}
 
 #joon {
 	background-color: black;
@@ -114,7 +106,7 @@ h2 {
 }
 @keyframes bounce {
 	from { transform: translate3d(0, 0, 0); }
-	to { transform: translate3d(0, 50px, 0);}
+	to { transform: translate3d(0, 40px, 0);}
 }
 
 img {

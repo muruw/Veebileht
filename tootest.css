@@ -67,16 +67,11 @@ a {
 
 h2 {
 	text-align: center;
-	color: OliveDrab;
+	color: DarkSlateGreen;
 	font-family: Console;
 	font-size: 30px
 }
 
-#asukoht {
-	padding: 10px 70px;
-	text-align: center;
-	font-family: Console;
-}
 
 .center {
     display: block;
@@ -89,6 +84,7 @@ h2 {
 	width:60%;
 	float: left;
 }
+
 
 .piltjaatis {
 	width: 35%;
