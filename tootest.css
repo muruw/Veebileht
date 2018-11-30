@@ -67,15 +67,9 @@ a {
 
 h2 {
 	text-align: center;
-	color: OliveDrab;
+	color: DarkSlateGray;
 	font-family: Console;
 	font-size: 30px
-}
-
-#asukoht {
-	padding: 10px 70px;
-	text-align: center;
-	font-family: Console;
 }
 
 .center {
@@ -101,4 +95,11 @@ img {
 
 li:hover{
 	background-color:gray;
+}
+
+#joon {
+	background-color: black;
+	width: cover;
+	height: 5px;
+	clear:both;
 }
