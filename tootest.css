@@ -74,18 +74,10 @@ h2 {
 
 
 
-.tootestJutt p {
-	float: left;
-	width:60%;
-}
-
-img {
-	float:right;
-}
-
-.tootestJutt img {
-	float:right;
-	padding-right: 25px;
+#essalist li {
+	float:left;
+	font-size: 20px;
+	width:75%;
 }
 
 li:hover{
@@ -108,3 +100,19 @@ li:hover{
 #vahe{
 	padding:20px;
 }
+
+#essalist {
+	float:left;
+	width:65%;
+}
+
+#teinelist {
+	float:right;
+	width:30%;
+}
+
+img {
+	float:right;
+}
+
+
