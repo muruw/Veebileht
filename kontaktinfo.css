@@ -84,16 +84,9 @@ h2 {
 	background-color: Khaki;
 	width: cover;
 	height: 300px;
+	border: solid 3px black;
 }
 
-#meist .tekst {
-	background-color: yellow;
-	text-decoration: none;
-	width: cover;
-	height: 150px;
-	background-position: center;
-	padding: 10px;
-}
 
 #joon {
 	background-color: black;
