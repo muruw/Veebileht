@@ -72,25 +72,20 @@ h2 {
 	font-size: 30px
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
 
-.tootestJutt {
-	width:60%;
+
+.tootestJutt p {
 	float: left;
+	width:60%;
 }
 
-.piltjaatis {
-	width: 35%;
-	float: right;
-
-}
 img {
 	float:right;
+}
+
+.tootestJutt img {
+	float:right;
+	padding-right: 25px;
 }
 
 li:hover{
@@ -102,4 +97,14 @@ li:hover{
 	width: cover;
 	height: 5px;
 	clear:both;
+}
+#kast {
+	background-color: Khaki;
+	width: cover;
+	height: 155px;
+	border: solid 3px black;
+}
+
+#vahe{
+	padding:20px;
 }
