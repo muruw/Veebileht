@@ -10,7 +10,7 @@ body {
 }
 
 .menu_bar li {
-	color: MediumTurquoise;
+	color: DarkSlateGray;
 	padding: 20px;
 	font-family: Console;
 	font-size: 45px;
@@ -24,7 +24,7 @@ body {
 }
 
 #banner {
-	background-image: url("ice_background.jpg");
+	background-image: url("orange.jpg");
 	background-size: cover;
 	background-position: center;
 	opacity: 0.75;
@@ -67,9 +67,9 @@ a {
 
 h2 {
 	text-align: center;
-	color: DarkSlateGray;
+	color: black;
 	font-family: Console;
-	font-size: 30px
+	font-size: 30px;
 }
 
 
@@ -81,7 +81,7 @@ h2 {
 }
 
 #meist {
-	background-color: Khaki;
+	background-color: Gold;
 	width: cover;
 	height: 300px;
 	border: solid 3px black;

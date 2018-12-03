@@ -10,7 +10,7 @@ body {
 }
 
 .menu_bar li {
-	color: MediumTurquoise;
+	color: DarkSlateGray;
 	padding: 20px;
 	font-family: Console;
 	font-size: 45px;
@@ -18,13 +18,13 @@ body {
 }
 
 #avaleht {
-	color: Khaki;
+	color: Gold;
 	font-size: 60px;
 	font-weight: bold;
 }
 
 #banner {
-	background-image: url("ice_background.jpg");
+	background-image: url("orange.jpg");
 	background-size: cover;
 	background-position: center;
 	opacity: 0.75;
