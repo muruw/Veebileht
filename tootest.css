@@ -17,7 +17,11 @@ body {
 	display:inline;
 }
 
-#tootest {
+.menu_bar a {
+	color: DarkSlateGray;
+}
+
+#tootest a {
 	color: Khaki;
 	font-size: 60px;
 	font-weight: bold;
@@ -118,7 +122,7 @@ img {
 	line-height: 0.5%;
 }
 
-#p_list {
+#p_list p {
 	text-align: left;
 }
 
